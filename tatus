@@ -1,0 +1,371 @@
+[33mcommit b7d40b7e04d7398e2eef0a5bffd010d7b6d909e5[m[33m ([m[1;36mHEAD -> [m[1;32medit-attendances[m[33m)[m
+Author: adamaru <adamaru8700@icloud.com>
+Date:   Tue Apr 12 00:41:11 2022 +0000
+
+    11章11.1.2
+
+[33mcommit d7e2bf5037e265ef10b69bf2bf6ae772964dd042[m[33m ([m[1;31morigin/master[m[33m, [m[1;32mmaster[m[33m, [m[1;32madd-user-attendances[m[33m)[m
+Author: adamaru <adamaru8700@icloud.com>
+Date:   Mon Apr 11 07:48:04 2022 +0000
+
+    Finish add-user-attendances
+
+[33mcommit 4c2397b4c56bbcfd0d694d25f81db3f32e697a9e[m
+Author: adamaru <adamaru8700@icloud.com>
+Date:   Mon Apr 11 01:56:57 2022 +0000
+
+    10章10.8
+
+[33mcommit d9a61a8c18942c6cf3e2f3e79962ec1cc748ee9f[m
+Author: adamaru <adamaru8700@icloud.com>
+Date:   Mon Apr 11 01:09:27 2022 +0000
+
+    10章10.7
+
+[33mcommit 943da7c1ee8feb8fa3eec358f3aa746a4e4a99ed[m
+Author: adamaru <adamaru8700@icloud.com>
+Date:   Sun Apr 10 11:30:24 2022 +0000
+
+    10章10.6
+
+[33mcommit da75c634e49545ce6d48dc6f28e3acfeed3ff8c9[m
+Author: adamaru <adamaru8700@icloud.com>
+Date:   Sun Apr 10 00:47:22 2022 +0000
+
+    10章10.5
+
+[33mcommit 0745e96c4c9efb0e8e8c567a6932a9fb2b8eb3c4[m
+Author: adamaru <adamaru8700@icloud.com>
+Date:   Sat Apr 9 08:36:55 2022 +0000
+
+    10章10.4
+
+[33mcommit f6426cffa4772e3ec25e3a2b0762bf05c9e8ac8b[m
+Author: adamaru <adamaru8700@icloud.com>
+Date:   Sat Apr 9 08:06:22 2022 +0000
+
+    10章10.3
+
+[33mcommit 35ae5dd2cdd74a98676ea95007b89bec3c8dfa75[m
+Author: adamaru <adamaru8700@icloud.com>
+Date:   Sat Apr 9 05:21:35 2022 +0000
+
+    10章10.2
+
+[33mcommit ca70281e9cf4fa278afc881ca192a6a83b2def1b[m
+Author: adamaru <adamaru8700@icloud.com>
+Date:   Sat Apr 9 04:12:18 2022 +0000
+
+    10章10.1.3
+
+[33mcommit 60fb1dbd24b64639922f8f4061ea51f8c3d6e8c3[m
+Author: adamaru <adamaru8700@icloud.com>
+Date:   Sat Apr 9 03:50:56 2022 +0000
+
+    10章10.1.2
+
+[33mcommit 857b1c45ab5709288e0ae00348d385931ca43ecb[m[33m ([m[1;32madd-basic-info[m[33m)[m
+Author: adamaru <adamaru8700@icloud.com>
+Date:   Fri Apr 8 01:14:29 2022 +0000
+
+    Finish add-basic-info
+
+[33mcommit 064a18bf8c437a83c6d4df0f57409889b00833a2[m
+Author: adamaru <adamaru8700@icloud.com>
+Date:   Fri Apr 8 00:23:43 2022 +0000
+
+    ９章9.3.1
+
+[33mcommit ec055f8bd776b4788277a1e20c4fb2d96b0937f6[m
+Author: adamaru <adamaru8700@icloud.com>
+Date:   Thu Apr 7 08:43:58 2022 +0000
+
+    ９章9.3.1.a
+
+[33mcommit e95d334efeb035f826b8666760840c4e6832093b[m
+Author: adamaru <adamaru8700@icloud.com>
+Date:   Thu Apr 7 07:43:01 2022 +0000
+
+    ９章9.2.3
+
+[33mcommit d307e52129b89e65595d22e65ea53df43119e807[m
+Author: adamaru <adamaru8700@icloud.com>
+Date:   Thu Apr 7 07:30:31 2022 +0000
+
+    ９章9.2.2
+
+[33mcommit 2785b309092a5b7e446be45a69fa4f499b17f4b5[m
+Author: adamaru <adamaru8700@icloud.com>
+Date:   Thu Apr 7 05:38:20 2022 +0000
+
+    ９章9.1.3
+
+[33mcommit 33a05c1f464c69a5673c0e685d7a2fc79c00a95c[m[33m ([m[1;32mjapanization-and-time-format[m[33m)[m
+Author: adamaru <adamaru8700@icloud.com>
+Date:   Thu Apr 7 00:26:57 2022 +0000
+
+    Finish japanization-and-time-format
+
+[33mcommit 6ad92a51238d312ad4807eacf16a489fe94d7df4[m[33m ([m[1;32mediting-users[m[33m)[m
+Author: adamaru <adamaru8700@icloud.com>
+Date:   Wed Apr 6 09:50:34 2022 +0000
+
+    Finish editing-users
+
+[33mcommit 73d6fe6ab3a392583bb7f7ce914619d840382d4d[m
+Author: adamaru <adamaru8700@icloud.com>
+Date:   Wed Apr 6 09:16:22 2022 +0000
+
+    ８章8.5.1
+
+[33mcommit 9364e5480a1e60a350dcbe1905c5d07c97d749ea[m
+Author: adamaru <adamaru8700@icloud.com>
+Date:   Wed Apr 6 07:06:21 2022 +0000
+
+    ８章8.4.2
+
+[33mcommit 32b277ddd7d2fd5c4779538a658b8a2ee5735b19[m
+Author: adamaru <adamaru8700@icloud.com>
+Date:   Wed Apr 6 06:57:32 2022 +0000
+
+    ８章8.4.1
+
+[33mcommit 097c40c99f73f5d8453fe736b887edcdeb3bdb10[m
+Author: adamaru <adamaru8700@icloud.com>
+Date:   Wed Apr 6 06:49:31 2022 +0000
+
+    ８章8.4
+
+[33mcommit bb14e319dcf426b2397b487e7e58ef2b823957d4[m
+Author: adamaru <adamaru8700@icloud.com>
+Date:   Wed Apr 6 06:27:19 2022 +0000
+
+    ８章8.3
+
+[33mcommit 76d39118e547e81714531b3f4664e191ea484935[m
+Author: adamaru <adamaru8700@icloud.com>
+Date:   Tue Apr 5 22:10:38 2022 +0000
+
+    ８章8.2.2
+
+[33mcommit 0273f7eddf09359d08c725b1d406dfd3ef1a138f[m
+Author: adamaru <adamaru8700@icloud.com>
+Date:   Tue Apr 5 09:29:41 2022 +0000
+
+    ８章8.2.1
+
+[33mcommit 98c007fc5aa2fcd4a4e5d174f8a9d49b8f5147dd[m
+Author: adamaru <adamaru8700@icloud.com>
+Date:   Tue Apr 5 09:10:24 2022 +0000
+
+    ８章8.1.3
+
+[33mcommit 7c6cb499a7ff1a2ee208f26d0a41a67b37e1aa98[m[33m ([m[1;32mfull-fiedged-login[m[33m)[m
+Author: adamaru <adamaru8700@icloud.com>
+Date:   Mon Apr 4 05:58:03 2022 +0000
+
+    Finish full-fiedged-login
+
+[33mcommit 02fc9627c895bbfaa508be66650e19684206f3f9[m
+Author: adamaru <adamaru8700@icloud.com>
+Date:   Mon Apr 4 05:03:10 2022 +0000
+
+    ７章7.2
+
+[33mcommit 6df63a9c709284c2c7e43345ae16919c78784580[m
+Author: adamaru <adamaru8700@icloud.com>
+Date:   Mon Apr 4 03:05:29 2022 +0000
+
+    ７章7.1.4
+
+[33mcommit 98d819a6d543db2499b32c4f708693815763e33c[m
+Author: adamaru <adamaru8700@icloud.com>
+Date:   Mon Apr 4 01:28:41 2022 +0000
+
+    ７章7.1.3
+
+[33mcommit a78090dd11f9af1d76a4efa876745dea85c11132[m
+Author: adamaru <adamaru8700@icloud.com>
+Date:   Mon Apr 4 01:05:24 2022 +0000
+
+    ７章7.1.2
+
+[33mcommit 8680bce9540c64d7cdf2764a119ea8f7aa56b1df[m[33m ([m[1;32mlogin-function[m[33m)[m
+Author: adamaru <adamaru8700@icloud.com>
+Date:   Sun Apr 3 11:16:15 2022 +0000
+
+    Finish login-function
+
+[33mcommit 4525da52effbaa3110ce6b10e864a37a120d9a9c[m
+Author: adamaru <adamaru8700@icloud.com>
+Date:   Sun Apr 3 05:25:41 2022 +0000
+
+    ６章6.4
+
+[33mcommit b597f4b05865bc8feb38e8eb44cc4f2c27cc716b[m
+Author: adamaru <adamaru8700@icloud.com>
+Date:   Sun Apr 3 05:10:11 2022 +0000
+
+    ６章6.3.2
+
+[33mcommit 74c6297fec1149c43a44d05744a39f57bc92e67e[m
+Author: adamaru <adamaru8700@icloud.com>
+Date:   Sun Apr 3 04:57:22 2022 +0000
+
+    ６章6.3.1
+
+[33mcommit ca3d9886f1bc3e0b23bfcec37ed03a2f8dd1b2f5[m
+Author: adamaru <adamaru8700@icloud.com>
+Date:   Sun Apr 3 04:47:32 2022 +0000
+
+    ６章6.2.3
+
+[33mcommit 532488ceaf8284c3bb0cafc00e36393b294bcfd7[m
+Author: adamaru <adamaru8700@icloud.com>
+Date:   Sun Apr 3 02:35:44 2022 +0000
+
+    ６章6.2.1
+
+[33mcommit 8557dd744670e12f63990c095f8d75c29533c6e0[m[33m ([m[1;32msignup-user[m[33m)[m
+Author: adamaru <adamaru8700@icloud.com>
+Date:   Sat Apr 2 22:46:37 2022 +0000
+
+    Finish signup-user
+
+[33mcommit 489ebdf98e3c1b5f49cc48e3abe787ca22708f62[m
+Author: adamaru <adamaru8700@icloud.com>
+Date:   Sat Apr 2 22:29:34 2022 +0000
+
+    ５章5.5.6
+
+[33mcommit cefa3d9af5ad9cfaa985792dd739846e43978a5b[m
+Author: adamaru <adamaru8700@icloud.com>
+Date:   Sat Apr 2 08:22:47 2022 +0000
+
+    ５章5.5.4
+
+[33mcommit cbde88e1e1db7e6fa83fe92fb8668b0bb75254ae[m
+Author: adamaru <adamaru8700@icloud.com>
+Date:   Sat Apr 2 08:00:21 2022 +0000
+
+    ５章5.5.3
+
+[33mcommit 0fa5ff4468feef30aebb2bc886e7b5e54fc819d8[m
+Author: adamaru <adamaru8700@icloud.com>
+Date:   Sat Apr 2 07:12:01 2022 +0000
+
+    ５章5.5
+
+[33mcommit f38650ffdfb4e7062bde1643f3319b45312c4a6c[m
+Author: adamaru <adamaru8700@icloud.com>
+Date:   Sat Apr 2 06:31:23 2022 +0000
+
+    ５章5.4
+
+[33mcommit aa783b738ae1a59566ad7649d32ad17f4c3db855[m
+Author: adamaru <adamaru8700@icloud.com>
+Date:   Sat Apr 2 03:13:03 2022 +0000
+
+    ５章5.2
+
+[33mcommit f4758a716be8870117d26769ebe3e1d72ead3f4a[m[33m ([m[1;32mmodeling-user[m[33m)[m
+Author: adamaru <adamaru8700@icloud.com>
+Date:   Fri Apr 1 04:42:08 2022 +0000
+
+    Finish modeling-user
+
+[33mcommit ee2c1c0f713fe0afcaa2b37b1c742afd483f2363[m
+Author: adamaru <adamaru8700@icloud.com>
+Date:   Thu Mar 31 10:40:37 2022 +0000
+
+    ４章4.5.1
+
+[33mcommit 3e909fcb55cf494a7a0a0a56705dc02cd8f0d023[m
+Author: adamaru <adamaru8700@icloud.com>
+Date:   Thu Mar 31 10:28:31 2022 +0000
+
+    ４章4.4.6
+
+[33mcommit 749e179b1cede7f1028411d546ca84f3f19bd0c0[m
+Author: adamaru <adamaru8700@icloud.com>
+Date:   Thu Mar 31 08:21:23 2022 +0000
+
+    ４章4.4.3
+
+[33mcommit 8844084f3ca99f4c20c798ee0f0d1881351c4b4b[m
+Author: adamaru <adamaru8700@icloud.com>
+Date:   Wed Mar 30 23:24:11 2022 +0000
+
+    ４章4.2.2
+
+[33mcommit 54efff1c0f7a3b7c260b36120fa3c372754f465c[m[33m ([m[1;32mpage-layout[m[33m)[m
+Author: adamaru <adamaru8700@icloud.com>
+Date:   Wed Mar 30 09:02:18 2022 +0000
+
+    Finish page-layout
+
+[33mcommit 430db685ae2114db2ec7c205c5db08ac8393b2d1[m
+Author: adamaru <adamaru8700@icloud.com>
+Date:   Wed Mar 30 08:43:38 2022 +0000
+
+    ３章3.4
+
+[33mcommit 7f3e446774ec65f3a17695c07bb422e08ccc8e5b[m
+Author: adamaru <adamaru8700@icloud.com>
+Date:   Wed Mar 30 08:37:54 2022 +0000
+
+    ３章3.3
+
+[33mcommit dabd630ede17600497a57e9f353c06542ba1bb39[m
+Author: adamaru <adamaru8700@icloud.com>
+Date:   Wed Mar 30 06:37:22 2022 +0000
+
+    ３章3.2
+
+[33mcommit 807be327e1d2eb063d94a27e4ff0704c05283fc8[m
+Author: adamaru <adamaru8700@icloud.com>
+Date:   Wed Mar 30 05:48:56 2022 +0000
+
+    ３章3.1
+
+[33mcommit 50e248548ff9ddb5daab2dfbb20efaf64240cdd8[m[33m ([m[1;32mtop-page[m[33m)[m
+Author: adamaru <adamaru8700@icloud.com>
+Date:   Tue Mar 29 12:31:59 2022 +0000
+
+    Finish top-page
+
+[33mcommit 72a7d907d964b75347cb6857767cbd1b896cb081[m
+Author: adamaru <adamaru8700@icloud.com>
+Date:   Tue Mar 29 12:03:39 2022 +0000
+
+    ２章2.7.4
+
+[33mcommit b208261d83252c84c1f44aaccc39722f60068ae1[m
+Author: adamaru <adamaru8700@icloud.com>
+Date:   Tue Mar 29 10:20:36 2022 +0000
+
+    ２章2.7.2
+
+[33mcommit 44b08c9c9f24ad95e6211a7ccf900909676da8c3[m
+Author: adamaru <adamaru8700@icloud.com>
+Date:   Tue Mar 29 06:00:48 2022 +0000
+
+    static_pagesコントローラーを追加
+
+[33mcommit 217847ee97c9b43a9a6f14214495eb21aeef965b[m
+Author: adamaru <adamaru8700@icloud.com>
+Date:   Tue Mar 29 05:42:19 2022 +0000
+
+    日時の設定を追加
+
+[33mcommit bdfe98badd4b5bf04f0fe2cfea470d2991e54dcd[m[33m ([m[1;32mmodify-README[m[33m)[m
+Author: adamaru <adamaru8700@icloud.com>
+Date:   Tue Mar 29 05:28:01 2022 +0000
+
+    READMEを修正
+
+[33mcommit a6118c6a292635b75c8ec5de3e2234a9e0b6a1c5[m
+Author: adamaru <adamaru8700@icloud.com>
+Date:   Mon Mar 28 16:55:15 2022 +0000
+
+    Initialize repository
